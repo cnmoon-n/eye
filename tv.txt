@@ -14,8 +14,6 @@
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 
 
-
-
 💘中央,#genre#
 CCTV-1综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
 CCTV-1综合,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8
@@ -72,6 +70,13 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
+🐾🦚世界,#genre#
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNC中文h,ttps://source07.v.news.cn/live/CNC_CN/playlist.m3u8?i
+CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+
 📺卫视,#genre#
 广东卫视,http://39.134.63.11:6610/PLTV/88888888/224/3221226374/index.m3u8?i
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225757/1.m3u8
@@ -105,30 +110,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
-🌺🌺广东,#genre#
-广东,http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
-南方卫视,http://39.135.32.24:6610/000000001000/1000000002000011619/1.m3u8?xtkg?zguangd
-广东珠江,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zguangd
-南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8?zguangd
-南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8?zguangd
-广东经济科教,https://pili-live-hls-metoo.v2gogo.com/metoo-live/905db01e5c06496ba128e547bb87158b.m3u8?zguangd
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
-广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-生活HD,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8?zguangd
-广州法制,http://ye23.win/iptv/gztv.php?id=fazhi?zguangd
-广州竞赛,http://ye23.win/iptv/gztv.php?id=jingsai?zguangd
-南国都市,http://ye23.win/iptv/gztv.php?id=shenghuo?zguangd
-深圳娱乐频道,http://ye23.win/iptv/sztv.php?id=6?zguangd
-深圳移动电视,http://ye23.win/iptv/sztv.php?id=8?zguangd
-深圳公共频道,http://ye23.win/iptv/sztv.php?id=4?zguangd
-深圳都市频道,http://ye23.win/iptv/sztv.php?id=2?zguangd
-深圳电视剧频道,http://ye23.win/iptv/sztv.php?id=3?zguangd
-深圳财经生活,http://ye23.win/iptv/sztv.php?id=5?zguangd
-深圳少儿,http://ye23.win/iptv/sztv.php?id=7?zguangd
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8?zguangd
-广州新闻,http://aplay.gztv.com/sec/xinwen.m3u8?zguangd
-广州综合,https://aplay.gztv.com/sec/zhonghe.m3u8?zguangd
 
 
 🗽南充,#genre#
@@ -142,24 +123,14 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
-大连少儿,rtmp://secret.dltv.cn/dreamStreamCore/q6tZ6Ba/lv500?p?zliaond
-河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
+
 
 💝4K台,#genre#
-4k超高清,https://p.ggiptv.com/v/4k.m3u8
-4k超高清,https://p.ggiptv.com/v/4k.m3u8
+
 爱上4k,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 欢笑剧场4k,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-C芒果4kTV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-北京4kIPTV,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-影院4k,http://epg.112114.xyz/douyu/9249162
+
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-🐾🦚世界,#genre#
-亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNC中文h,ttps://source07.v.news.cn/live/CNC_CN/playlist.m3u8?i
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
