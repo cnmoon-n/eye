@@ -27,3 +27,9 @@ CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 CCTV16,http://iptv.tvfix.org/hls/cctv16hd.m3u8
 CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
