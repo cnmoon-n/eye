@@ -92,12 +92,9 @@ CNC中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226208/1.m3u8
 CNC中文,http://39.134.63.11:6610/PLTV/88888888/224/3221225604/index.m3u8?i
 CNC英文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-FOX News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-NBC News,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-CNN News,https://epg.pm/stream/6d810e5ac0c7eadd6c08b7e9b7cf8a68c76d10aa6365f4d8c0b4ac09f26b6fd2.m3u8
+
 纬来体育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8#http://39.134.65.166/PLTV/88888888/224/3221225509/1.m3u8
+CGTN纪录,https://live.cgtn.com/1000/prog_index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8#http://39.134.65.166/PLTV/88888888/224/3221225509/1.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225747/index.m3u8#http://39.134.65.166/PLTV/88888888/224/3221225510/1.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8#http://39.134.65.166/PLTV/88888888/224/3221225509/1.m3u8
 新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8#http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新华英语,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8#http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
