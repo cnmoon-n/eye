@@ -99,19 +99,19 @@ CGTN纪录,https://live.cgtn.com/1000/prog_index.m3u8#http://39.135.138.58:18890
 新华英语,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8#http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 🐆🐅虎牙,#genre#
-周星驰-粤语,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-吴孟达,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
-甄子丹,http://39.134.63.11:6610/PLTV/88888888/224/3221226374/index.m3u8?i
-周润发,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225757/1.m3u8
-刘德华,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
-洪金宝,http://39.134.63.11:6610/PLTV/88888888/224/3221226495/index.m3u8?i
-黄渤,http://111.40.196.9/PLTV/88888888/224/3221225515/index.m3u8
-古墓系列,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225746/1.m3u8
-赛车系列,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
-中国功夫,http://59.51.68.40:1936/live/jsws/playlist.m3u8
-香港女神系列,http://111.40.196.9/PLTV/88888888/224/3221225523/index.m3u8
-金庸武侠系列,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225788/1.m3u8
-金马影院,http://hw-m-l.cztv.com/channels/lantian/channel01/540p.m3u8
+周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+周润发,http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+刘德华,http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+中国功夫,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 🗽南充周边,#genre#
