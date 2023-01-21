@@ -19,10 +19,12 @@ CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1综合,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-2财经,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV-2财经,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-3综艺,https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv3_2/index.m3u8
 CCTV-3综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 CCTV-3综艺,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 CCTV-4中文国际,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 CCTV-5体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV-5体育,https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv5_2/index.m3u8
 CCTV-5+体育,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 
 CCTV-6电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
@@ -42,6 +44,7 @@ CCTV-12社会与法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 CCTV-12社会与法,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
 CCTV-12社会与法,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 CCTV-13新闻,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV13新闻,https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
 CCTV-14少儿,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
 CCTV-14少儿,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-15音乐,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
@@ -129,6 +132,7 @@ CCTV-2财经,https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv2_2/index.
 CCTV-2财经,http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-2H265_hls_pull_4000K_live.m3u8
 CCTV-2财经,http://39.134.63.11:6610/PLTV/88888888/224/3221225588/index.m3u8?i
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225762/1.m3u8
+CCTV-3综艺,https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv3_2/index.m3u8
 CCTV-3综艺,http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-3H265_hls_pull_4000K_live.m3u8
 CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
 CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225782/1.m3u8
@@ -138,6 +142,7 @@ CCTV-4中文国际,http://39.134.63.11:6610/PLTV/88888888/224/3221226007/index.m
 CCTV-4中文国际,http://111.40.196.9/PLTV/88888888/224/3221225557/index.m3u8
 CCTV-4中文国际,http://111.40.196.9/PLTV/88888888/224/3221225490/index.m3u8
 CCTV-4中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225781/1.m3u8
+CCTV-5体育,https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv5_2/index.m3u8
 CCTV-5体育,http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-5H265_hls_pull_4000K_live.m3u8
 CCTV-5体育,http://111.40.196.9/PLTV/88888888/224/3221225743/index.m3u8
 CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225780/1.m3u8
@@ -168,6 +173,7 @@ CCTV-12社会与法,http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_scc
 CCTV-12社会与法,http://111.40.196.9/PLTV/88888888/224/3221225498/index.m3u8
 CCTV-12社会与法,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225775/1.m3u8
 CCTV-12社会与法,http://123.6.9.146/live/jz-cctv-12/live.m3u8
+CCTV-13新闻,https://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8
 CCTV-13新闻,http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn,CCTV-13H265_hls_pull_4000K_live.m3u8
 CCTV-13新闻,http://111.40.196.9/PLTV/88888888/224/3221225575/index.m3u8
 CCTV-13新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225774/1.m3u8
