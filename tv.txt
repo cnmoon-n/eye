@@ -1,7 +1,7 @@
 🗼港澳台,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8#http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?zgangd#https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-凤凰中文http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8#http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8#http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8#https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 香港开电视,https://epg.pm/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8
 TVBS新闻,https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
