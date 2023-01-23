@@ -50,10 +50,10 @@ CHC家庭影院,http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn
 深圳卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225741/index.m3u8#http://39.134.65.164/PLTV/88888888/224/3221225668/1.m3u8#http://39.134.65.166/PLTV/88888888/224/3221225668/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
 南方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8
 四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000#http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
-浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8#http://39.134.63.11:6610/PLTV/88888888/224/3221225783/index.m3u8?i#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+浙江卫视,http://59.51.68.40:1936/live/zjws/playlist.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8#http://39.134.63.11:6610/PLTV/88888888/224/3221225783/index.m3u8?i#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
-东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8#http://59.51.68.40:1936/live/dfws/playlist.m3u8
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 甘肃卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
 广西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
@@ -116,9 +116,8 @@ CGTN纪录,https://live.cgtn.com/1000/prog_index.m3u8#http://39.135.138.58:18890
 
 🗽南充周边,#genre#
 南充公共,http://tv.drs.ncntv.com.cn:8100/channellive/ncggpd.flv
-南充新闻,http://59.51.68.40:1936/live/zjws/playlist.m3u8#https://nczbpull.ncntv.com.cn/nctv/2004.m3u8#http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv
-南充科教,http://59.51.68.40:1936/live/dfws/playlist.m3u8#https://nczbpull.ncntv.com.cn/nctv/2006.m3u8#http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
-乐山公共,http://39.134.63.11:6610/PLTV/88888888/224/3221226251/index.m3u8?
+南充新闻,https://nczbpull.ncntv.com.cn/nctv/2004.m3u8#http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv
+南充科教,https://nczbpull.ncntv.com.cn/nctv/2006.m3u8#http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
 绵阳综合,http://live.sctvcloud.com/live/mytvzh/playlist.m3u8
 绵阳公共,http://live.sctvcloud.com/live/mytvgg/playlist.m3u8
 四川峨眉电影HD,http://182.151.211.171:808/hls/58/index.m3u8
