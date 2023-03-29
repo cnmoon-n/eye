@@ -20,7 +20,12 @@ https://jinshuju.net/f/kQbBlF
 
 
 安装后要使用到  JS本地接口.zip 也是需要下载：
-https://gitee.com/etceye/tvbox/raw/master/JS%E6%9C%AC%E5%9C%B0%E6%8E%A5%E5%8F%A3.zip
+https://cdn.jsdelivr.net/gh/cncot/tv@master/JS%E6%9C%AC%E5%9C%B0%E6%8E%A5%E5%8F%A3.zip
+
+补丁:JS本地接口1.zip
+https://cdn.jsdelivr.net/gh/cncot/tv@master/JS%E6%9C%AC%E5%9C%B0%E6%8E%A5%E5%8F%A31.zip
+
+MaooXB2.zip  解压用于手动上传里面文件，先用补丁，否则不用上传
 
 说明，JS本地接口.zip是我弄出来的缝合怪，直播源也是修改过的。
 
