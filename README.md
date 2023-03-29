@@ -29,25 +29,3 @@ MaooXB2.zip  解压用于手动上传里面文件，先用补丁，否则不用�
 
 https://cdn.jsdelivr.net/gh/cncot/tv@master/MaooXB2.zip
 说明，JS本地接口.zip是我弄出来的缝合怪，直播源也是修改过的。
-
-有截图指引导入。
-
-https://gitee.com/etceye/tvbox/blob/master/1.png
-![输入图片说明](1.png)
-https://gitee.com/etceye/tvbox/blob/master/2.png
-![输入图片说明](2.png)
-https://gitee.com/etceye/tvbox/blob/master/3.png
-![输入图片说明](3.png)
-https://gitee.com/etceye/tvbox/blob/master/4.png
-![输入图片说明](4.png)
-https://gitee.com/etceye/tvbox/blob/master/5.png
-![输入图片说明](5.png)
-https://gitee.com/etceye/tvbox/blob/master/6.png
-![输入图片说明](6.png)
-https://gitee.com/etceye/tvbox/blob/master/7.png
-![输入图片说明](7.png)
-https://gitee.com/etceye/tvbox/blob/master/8.png
-![输入图片说明](8.png)
-https://gitee.com/etceye/tvbox/blob/master/9.png
-![输入图片说明](9.png)
-tvbox是开源测试软件不能商用望大家知悉。先祝大家新年快乐！！！！！
