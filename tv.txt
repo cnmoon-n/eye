@@ -286,13 +286,7 @@ CGTN,http://39.134.65.166/PLTV/88888888/224/3221225510/1.m3u8#https://live.cgtn.
 中国教育3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 
 
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影,http://111.40.196.9/PLTV/88888888/224/3221225577/index.m3u8
 
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://121.51.249.30/livehkkp.chinamcache.com/live/8ne5i_sccn
-
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 📺卫视,#genre#
 北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
@@ -583,23 +577,19 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 🐆🐅电影,#genre#
-NewTv黑莓电影•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-NewTv怡伴健康•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1986735481_995129881/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-NewTv潮妈辣婆•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-NewTv军旅剧场•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-NewTv中国功夫•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-NewTv农业致富•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2105966330_1690115505/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-NewTv动作电影•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-NewTv家庭剧场•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-NewTv惊悚悬疑•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-NewTv武博世界•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-NewTv炫舞未来•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-NewTv爱情喜剧•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2778199896_-991379679/ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-NewTv精品体育•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-NewTv精品大剧•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-NewTv军事评论•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-NewTv精品记录•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-NewTv明星大片•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+
+军旅剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+中国功夫,http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+
+动作电影,http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+家庭剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+惊悚悬疑,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+炫舞未来,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
+精品大剧,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+军事评论,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+精品记录,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -608,38 +598,9 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
-特辑影院,http://epg.112114.xyz/douyu/3637778
-贝爷MAX厅,http://epg.112114.xyz/douyu/4332
 
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-霍格影片,http://epg.112114.xyz/douyu/8814650
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-怀旧90,http://epg.112114.xyz/douyu/9275635
-麓山迷踪,http://epg.112114.xyz/douyu/4505431
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-豆瓣电影,http://epg.112114.xyz/douyu/8770422
-神乐影片2,http://epg.112114.xyz/douyu/85894
-周末影院,http://epg.112114.xyz/douyu/3637765
-特辑影院,http://epg.112114.xyz/douyu/3637778
 
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-霍格影片,http://epg.112114.xyz/douyu/8814650
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
-粤语综艺,http://epg.112114.xyz/douyu/7919720
-华语经典,http://epg.112114.xyz/douyu/434971
-特辑影院,http://epg.112114.xyz/douyu/3637778
-贝爷MAX厅,http://epg.112114.xyz/douyu/4332
-漫威影片,http://epg.112114.xyz/douyu/6140589
-刘德华电影1,http://epg.112114.xyz/douyu/2516864
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
 
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-
-林正英1,http://epg.112114.xyz/douyu/218859
 林正英2,http://epg.112114.xyz/douyu/7356023
 林正英2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 林正英3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
@@ -651,51 +612,6 @@ CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 
 
-女神金电影,http://epg.112114.xyz/douyu/747764
-贝爷影厅1,http://epg.112114.xyz/douyu/252802
-贝爷影厅2,http://epg.112114.xyz/douyu/36337
-霍格影片,http://epg.112114.xyz/douyu/8814650
-可乐电影,http://epg.112114.xyz/douyu/20415
-冰冰经典电影,http://epg.112114.xyz/douyu/74374
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-避风港影院,http://epg.112114.xyz/douyu/9826611
-恐怖经典,http://epg.112114.xyz/douyu/1165374
-变种人电影,http://epg.112114.xyz/douyu/9651304
-华语电影,http://epg.112114.xyz/douyu/3928
-斗鱼電影7,http://epg.112114.xyz/douyu/3637726
-斗鱼電影8,http://epg.112114.xyz/douyu/323876
-斗鱼电影10,http://epg.112114.xyz/douyu/2935323
-斗鱼電影11,http://epg.112114.xyz/douyu/7459925
-斗鱼電影16,http://epg.112114.xyz/douyu/431460
-斗鱼電影21,http://epg.112114.xyz/douyu/6776615
-斗鱼電影22,http://epg.112114.xyz/douyu/1979257
-斗鱼電影26,http://epg.112114.xyz/douyu/8413092
-斗鱼電影71,http://epg.112114.xyz/douyu/2987100
-斗鱼電影77,http://epg.112114.xyz/douyu/2758565
-斗鱼電影81,http://epg.112114.xyz/douyu/3870925
-斗鱼電影95,http://epg.112114.xyz/douyu/4549169
-斗鱼電影105,http://epg.112114.xyz/douyu/4290711
-斗鱼電影108,http://epg.112114.xyz/douyu/6566671
-斗鱼電影111,http://epg.112114.xyz/douyu/8475821
-斗鱼電影117,http://epg.112114.xyz/douyu/338759
-斗鱼電影124,http://epg.112114.xyz/douyu/2793084
-斗鱼電影125,http://epg.112114.xyz/douyu/5067952
-斗鱼電影129,http://epg.112114.xyz/douyu/413573
-斗鱼電影135,http://epg.112114.xyz/douyu/7476264
-斗鱼電影141,http://epg.112114.xyz/douyu/7623292
-斗鱼電影145,http://epg.112114.xyz/douyu/5033502
-斗鱼電影169,http://epg.112114.xyz/douyu/7528160
-斗鱼电影90,http://epg.112114.xyz/douyu/6785471
-斗鱼电影110,http://epg.112114.xyz/douyu/8415464
-斗鱼电影113,http://epg.112114.xyz/douyu/5522351
-斗鱼电影114,http://epg.112114.xyz/douyu/562225
-斗鱼电影116,http://epg.112114.xyz/douyu/8651489
-斗鱼电影120,http://epg.112114.xyz/douyu/5354713
-斗鱼电影122,http://epg.112114.xyz/douyu/3485629
-斗鱼电影130,http://epg.112114.xyz/douyu/8014467
-斗鱼电影137,http://epg.112114.xyz/douyu/1274132
-斗鱼电影149,http://epg.112114.xyz/douyu/6582435
-斗鱼电影158,http://epg.112114.xyz/douyu/8788687
 
 
 
@@ -739,18 +655,19 @@ CCTV-14少儿,http://39.134.65.173/PLTV/88888888/224/3221225674/1.m3u8
 BTV纪实科教 8K,http://159.75.85.63:6798
 8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-CCTV1 4K •支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-CCTV16 4K •支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-河南卫视 4K •支持回看,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+CCTV1 4K ,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV16 4K ,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+河南卫视 4K ,http://[2409:8087:4402:20:1:1216:401:13]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 爱上4k,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 爱上4k,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-爱上4K •支持回看,http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
-4K 修复•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+爱上4K ,http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
+4K 修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
